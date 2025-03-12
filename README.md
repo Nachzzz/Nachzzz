@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nach</h1>
-<h3 align="center">A passionate software developer focused on frontend and graphic designer.</h3>
+<h3 align="center">A passionate software developer focused on frontend.</h3>
 
 - 🌱 I’m currently learning **AngularJS, Tailwind.**
 
